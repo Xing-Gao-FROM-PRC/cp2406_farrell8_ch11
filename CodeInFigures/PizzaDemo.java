@@ -1,7 +1,5 @@
-public class PizzaDemo implements PizzaConstants
-{
-   public static void main(String[] args)
-   {
+public class PizzaDemo implements PizzaConstants{
+   public static void main(String[] args){
       double specialPrice = 11.25;
       System.out.println("Welcome to " + COMPANY);
       System.out.println("We are having a special offer:\na " +

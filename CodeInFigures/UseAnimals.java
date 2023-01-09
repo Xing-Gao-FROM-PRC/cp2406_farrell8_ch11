@@ -1,7 +1,5 @@
-public class UseAnimals
-{
-   public static void main(String[] args)
-   {
+public class UseAnimals{
+   public static void main(String[] args){
       Dog myDog = new Dog();
       Cow myCow = new Cow();
       Snake mySnake = new Snake();

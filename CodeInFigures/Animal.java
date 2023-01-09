@@ -1,13 +1,10 @@
-public abstract class Animal
-{
+public abstract class Animal{
    private String name;
    public abstract void speak();
-   public String getName()
-   {
+   public String getName(){
       return name;
    }
-   public void setName(String animalName)
-   {
+   public void setName(String animalName){
       name = animalName;
    }
 }

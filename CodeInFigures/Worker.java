@@ -1,4 +1,3 @@
-public interface Worker
-{
+public interface Worker{
    public void work();
 }

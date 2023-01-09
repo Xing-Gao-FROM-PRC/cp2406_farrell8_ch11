@@ -1,7 +1,5 @@
-public class DemoWorkingDogs
-{
-   public static void main(String[] args)
-   {
+public class DemoWorkingDogs{
+   public static void main(String[] args){
       WorkingDog aSheepHerder = new WorkingDog();
       WorkingDog aSeeingEyeDog = new WorkingDog();
       aSheepHerder.setName("Simon, the Border Collie");

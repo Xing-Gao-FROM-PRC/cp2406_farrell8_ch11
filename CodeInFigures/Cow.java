@@ -1,8 +1,6 @@
-public class Cow extends Animal
-{
+public class Cow extends Animal{
    @Override
-   public void speak()
-   {
+   public void speak(){
       System.out.println("Moo!");
    }
 }

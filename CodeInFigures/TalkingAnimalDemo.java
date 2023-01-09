@@ -1,7 +1,5 @@
-public class TalkingAnimalDemo
-{
-   public static void main(String[] args)
-   {
+public class TalkingAnimalDemo{
+   public static void main(String[] args){
       Dog dog = new Dog();
       Cow cow = new Cow();
       dog.setName("Ginger");
@@ -9,8 +7,7 @@ public class TalkingAnimalDemo
       talkingAnimal(dog);
       talkingAnimal(cow);
    }
-   public static void talkingAnimal(Animal animal)
-   {
+   public static void talkingAnimal(Animal animal){
       System.out.println("Come one. Come all.");
       System.out.println
          ("See the amazing talking animal!");
